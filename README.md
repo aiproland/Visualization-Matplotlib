@@ -1,2 +1,2 @@
 # Visualization-Matplotlib
-Data Visualization With Matplotlib - Intro Instructed By Armita Razavi
+Aiproland Data Visualization With Matplotlib Youtube Tutorial Slides and Codes 
